@@ -139,7 +139,7 @@ This is representative rather than a fixed implementation contract.
 
 ## Roadmap
 
-### V1 — Play one Sudoku
+### V1 - Play one Sudoku
 
 * Hard-coded puzzle.
 * Board rendering.
@@ -150,27 +150,27 @@ This is representative rather than a fixed implementation contract.
 * Completion detection.
 * Reset.
 
-### V2 — Multiple puzzles
+### V2 - Multiple puzzles
 
 * New puzzle.
 * Basic puzzle generation.
 * Difficulty selection.
 
-### V3 — Solver
+### V3 - Solver
 
 * Backtracking solver.
 * Solve button.
 * Solver tests.
 * Headless solver API.
 
-### V4 — Solver visualization
+### V4 - Solver visualization
 
 * Step-by-step solving.
 * Solver trace.
 * Highlight the current operation.
 * Explain solver decisions where practical.
 
-### V5 — Puzzle architecture
+### V5 - Puzzle architecture
 
 * Extract reusable puzzle/domain interfaces.
 * Improve separation between domain logic and UI.
